@@ -14,23 +14,15 @@ const About = () => {
         <div className="about-grid">
           <div className="about-text">
             <p>
-              I am a frontend developer dedicated to creating intuitive and
-              engaging user experiences. I love transforming complex ideas into
-              clean, beautiful, and functional interfaces.
+              Full Stack Developer with a strong focus on building scalable and user-centric web applications. Experienced in developing responsive frontends and robust backend systems using modern technologies such as React, Node.js, Express, and MongoDB.
             </p>
 
             <p>
-              I specialize in building responsive and accessible web
-              applications using HTML, CSS, JavaScript, React, and modern
-              styling tools. I enjoy collaborating with designers and backend
-              developers to craft seamless interfaces that look great and
-              perform efficiently.
+              Skilled in designing and integrating RESTful APIs, implementing secure authentication mechanisms, and delivering clean, maintainable code. Committed to creating efficient, accessible, and high-performing applications that provide a seamless user experience.
             </p>
 
             <p>
-              I’m always eager to learn, grow, and explore new technologies.
-              Currently, I’m looking for opportunities where I can contribute,
-              improve my skills, and build meaningful digital experiences.
+              Demonstrates a continuous learning mindset and a proactive approach to problem-solving. Seeking opportunities to contribute to innovative projects while further developing technical and professional expertise.
             </p>
 
             <div className="button-wrapper">
@@ -66,8 +58,9 @@ const About = () => {
         <div className="about-skills">
             <div className="about-skill"><p>HTML/CSS</p><hr style={{width: '90%'}}/></div>
             <div className="about-skill"><p>Javascript</p><hr style={{width: '80%'}}/></div>
+            <div className="about-skill"><p>Tailwind CSS</p><hr style={{width: '80%'}}/></div>
             <div className="about-skill"><p>React JS</p><hr style={{width: '70%'}}/></div>
-            <div className="about-skill"><p>Tailwind CSS</p><hr style={{width: '70%'}}/></div>
+            <div className="about-skill"><p>ExpressJs</p><hr style={{width: '70%'}}/></div>
         </div>
     </div>
   )
